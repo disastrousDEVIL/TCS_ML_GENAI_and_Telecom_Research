@@ -22,7 +22,7 @@ This repository contains research and work completed during my internship at Tat
 ### 6. [Top 5 Packages in Machine Learning](Top_5_Packages_in_Machine_Learning.pdf)
    - **Description:** An overview of the top five machine learning packages used in data science: Scikit-Learn, Keras, TensorFlow, OpenCV, and Seaborn. The document describes each package's features, use cases, and examples from projects.
 
-### 7. [Gen AI Use Case in the Telecom Industry](Gen_AI_Use_Cases_in_Telecom_Industry.pdf)
+### 7. [Gen AI Use Case in Telecom Industry](Gen_AI_Use_Case_in_Telecom_Industry.pdf)
    - **Description:** This document explores how Generative AI (GenAI) can be applied in the telecom industry, covering key use cases such as content generation, multilingual support, and predictive maintenance. It highlights the impact of GenAI in enhancing customer service, optimizing network management, and driving marketing strategies.
 
 ## How to Use This Repository
